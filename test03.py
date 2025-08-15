@@ -1,4 +1,4 @@
 print("Hello")
 print("Hi....")
 print("123") ; print('bbbb')
-print
+print(1234)
